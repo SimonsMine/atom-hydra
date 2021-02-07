@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-hydra",
+        "label": "Toggle atom-hydra-mine",
         "command": "atom-hydra:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-hydra",
+          "label": "atom-hydra-mine",
           "submenu": [
             {
               "label": "Toggle",
