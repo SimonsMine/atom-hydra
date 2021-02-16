@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-hydra:toggle"
   },
-  "repository": "https://github.com/SimonsMine/atom-hydra",
+  "repository": "https://github.com/SimonsMine/atom-hydra-mine",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
